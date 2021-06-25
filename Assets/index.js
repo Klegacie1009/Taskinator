@@ -7,3 +7,4 @@ var listItemEl = document.createElement("li");
     tasksToDoEl.appendChild(listItemEl);
   };
 buttonEl.addEventListener("click", createTaskHandler);
+
